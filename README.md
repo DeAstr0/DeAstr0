@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi there, I'm Ade Astrawijaya (a.k.a. DeAstr0)!
 
 🌱 I'm a 6th-semester Informatics student at Universitas Teknologi Yogyakarta, passionate about building impactful digital solutions for agriculture and livestock. I'm currently working on smart farming apps and IoT systems to help small-scale farmers thrive using technology.
@@ -71,5 +68,3 @@ _(Tambahkan link LinkedIn kamu ya!)_
 
 > “Coding and cultivating — that’s how I grow ideas and crops 🌱💻.”
 
-
--->
