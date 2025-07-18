@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ade Astrawijaya (a.k.a. DeAstr0)!
 
-🌱 I'm a 6th-semester Informatics student at Universitas Teknologi Yogyakarta, passionate about building impactful digital solutions for agriculture and livestock. I'm currently working on smart farming apps and IoT systems to help small-scale farmers thrive using technology.
+🌱 I'm a Informatics student at Universitas Teknologi Yogyakarta, passionate about building impactful digital solutions for agriculture and livestock. I'm currently working on smart farming apps and IoT systems to help small-scale farmers thrive using technology.
 
 ---
 
@@ -8,7 +8,6 @@
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=flat&logo=esphome)
@@ -28,9 +27,6 @@
   IoT-based incubator with temperature, humidity control & egg rotator  
   > Tech: ESP32 + Firebase + Wokwi + Thunkable
 
-- ✅ **To-Do List App with OTP Auth**  
-  Simple productivity app with email verification flow  
-  > Tech: Flutter + Golang + MySQL
 
 ---
 
